@@ -124,14 +124,17 @@ Enter your current daily calorie intake: 2000
 Do you want to lose, gain, or maintain your weight? (lose/gain/maintain): gain
 
 Your personalized daily diet plan:
+
 Breakfast (08:00 AM):
   - Safflower oil (900 Calories)
   - Kidney beans (100 Calories)
   - Turmeric (0.0 Calories)
+
 Lunch (12:00 PM):
   - Canola oil (900 Calories)
   - Cod (100 Calories)
   - Parsley (0.0 Calories)
+
 Dinner (07:00 PM):
   - Soybean oil (900 Calories)
   - Lobsters (97.0 Calories)
