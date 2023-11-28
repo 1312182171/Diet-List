@@ -81,7 +81,7 @@ Installation and Instruction to use:
 
 Functionalities and Test Results:
 
-Diet Plan Generator (Code 1):
+SourceCode (Code 1):
 
 #### Functionalities:
 1. **User Input:**
@@ -140,7 +140,7 @@ Dinner (07:00 PM):
   - Lobsters (97.0 Calories)
   - Cassava (None Calories)
 
-### Nutritional Data Fetcher (Code 2):
+### Food Data Generator (Code 2):
 
 #### Functionalities:
 1. **API Integration:**
