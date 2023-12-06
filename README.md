@@ -23,29 +23,26 @@ In collaboration with the provided code, this project aims to be a valuable tool
 
 Structure of the code:
 
-+---------------------------+
-| Import Modules 
+ Import Modules 
     import tkinter as tk
     from tkinter import messagebox
     import json
     import random
+ Function Definitions      
+   - load_nutritional_data 
+   - calculate_target...   
+   - select_foods_for_meal 
 
-+---------------------------+
-| Function Definitions      |
-|   - load_nutritional_data |
-|   - calculate_target...   |
-|   - select_foods_for_meal |
-+---------------------------+
-| GUI Related Functions     |
-|   - submit_action         |
-+---------------------------+
-| GUI Setup                 |
-|   - Window and Widgets    |
-|   - Submit Button         |
-+---------------------------+
-| Main Event Loop           |
-|   - root.mainloop()       |
-+---------------------------+
+ GUI Related Functions     
+   - submit_action         
+
+ GUI Setup                 
+   - Window and Widgets    
+   - Submit Button         
+
+ Main Event Loop           
+   - root.mainloop()       
+
 1. Imports
    tkinter: A standard Python interface to the Tk GUI toolkit.
    messagebox: A Tkinter module used for displaying message boxes.
